@@ -1,4 +1,7 @@
-# InnoTutor Presents ChatEDU(Team:Ashfire)
+# InnoTutor Presents ChatEDU
+Top10-project-among-120-in-Scaler-NodeJS-challenge
+Selection Announcement:https://www.linkedin.com/posts/pawan-kumar8_nodejs-top10-nodejschallenge-activity-7174775323748700161-ZDJ0?utm_source=share&utm_medium=member_desktop
+Featured Youtube demo and live presentation(on scaler ooficial yt channel by Pawan) -https://www.youtube.com/watch?v=q189YNqFn0g&ab_channel=CodewithScaler
 
 ## :fleur_de_lis: Drumroll, here...comes InnoTutor's ChatEDU
 
