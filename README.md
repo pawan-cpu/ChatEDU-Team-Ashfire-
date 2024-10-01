@@ -77,7 +77,7 @@ Featured Youtube demo and live presentation(on scaler ooficial yt channel by Paw
 ![Continuous Integration and Deployment Workflow with Next.js, GitHub, and Azure.png](https://github.com/akashpanda122/innotutor/blob/main/public/architecture/deployment.png)
 
 ### Try it out
-- https://azure.chatedu.io/
+- https://www.chatedu.io/
 
 ### Github
 - Github: https://github.com/akashpanda122/innotutor
